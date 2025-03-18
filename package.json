@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cami0888/BIMO_Backend#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
     "express": "^4.21.2"
   }
 }
